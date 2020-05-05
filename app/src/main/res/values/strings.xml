@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CareOlder</string>
+    <string name="tv_test1">宋法兴是真的帅!!!</string>
+    <string name="btnHelp">紧急求助</string>
+    <string name="btnGps">回家</string>
+    <string name="btnQuery">咨询服务</string>
+    <string name="btnActi">活动预约</string>
+    <string name="sentPosition">发送定位</string>
+</resources>

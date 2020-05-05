@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="btnhelp0">#FEF1DE</color>
+    <color name="btngps0">#5599FF</color>
+    <color name="btnquery0">#A3FF66</color>
+    <color name="btnacti0">#FFFF99</color>
+
+    <color name="btnhelp1">#FBCE8C</color>
+    <color name="btngps1">#004BBB</color>
+    <color name="btnquery1">#58DD00</color>
+    <color name="btnacti1">#FFFF55</color>
+
+    <color name="strokecolor">#C4A93C</color>
+</resources>
